@@ -1,0 +1,24 @@
+{
+  "name": "crafty-onboarding",
+  "version": "1.0.0",
+  "description": "On Boarding Instructions For Entry Level Developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "http-server -p 8081"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martytheparty/crafty-onboarding.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martytheparty/crafty-onboarding/issues"
+  },
+  "homepage": "https://github.com/martytheparty/crafty-onboarding#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
