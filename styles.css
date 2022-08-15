@@ -1,0 +1,17 @@
+.congrats
+{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.console
+{
+    width: 600px;
+    height: 30px;
+    background-color: #000;
+    color: #FFF;
+    font-family: monospace;
+    margin: 3px 0;
+}
