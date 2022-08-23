@@ -15,4 +15,4 @@ On Boarding Instructions For Entry Level Developers
 - Install the project's dependencies: npm install
 - Start the server: npm run server
 - Point your browser to: http://192.168.1.76:8081/
-- Congratulations
+- Congratulations.
